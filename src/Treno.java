@@ -2,7 +2,7 @@
 import java.util.*;
 
 /**
- * versione 1
+ * versione 1 gitHub
  */
 public class Treno {
 
