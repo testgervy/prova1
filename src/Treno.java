@@ -2,7 +2,7 @@
 import java.util.*;
 
 /**
- * versione 2 modificato da remoto
+ * versione 3 modificato da remoto
  */
 public class Treno {
 
